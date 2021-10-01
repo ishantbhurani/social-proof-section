@@ -146,6 +146,8 @@ img {
   }
 
   @include for-desktop {
+    margin: 1em 0;
+
     &:nth-of-type(even) {
       margin-left: 2em;
     }

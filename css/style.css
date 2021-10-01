@@ -171,6 +171,9 @@ img {
 }
 
 @media screen and (min-width: 1200px) {
+  .rating {
+    margin: 1em 0;
+  }
   .rating:nth-of-type(even) {
     margin-left: 2em;
   }
